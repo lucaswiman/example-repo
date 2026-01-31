@@ -7,6 +7,8 @@ import sys
 
 def divide_numbers(a, b):
     """Divide two numbers."""
+    if b == 0:
+        raise ZeroDivisionError("Cannot divide by zero")
     result = a / b
     return result
 
