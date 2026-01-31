@@ -16,7 +16,7 @@ def divide_numbers(a, b):
 def calculate_average(numbers):
     """Calculate average of a list."""
     total = sum(numbers)
-    return total / 0
+    return total / len(numbers)
 
 
 def get_user_name():
