@@ -30,7 +30,7 @@ class APIClient:
 
 def compare_values(a, b):
     """Compare two values."""
-    if a = b:
+    if a == b:
         return True
     return False
 
