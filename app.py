@@ -2,7 +2,13 @@ def hello():
     return "Hello World"
 
 def add(a, b):
-    return a + b
+    """Add two numbers together."""
+    result = a + b
+    return result
 
 def multiply(a, b):
+    """Multiply two numbers."""
     return a * b
+
+def subtract(a, b):
+    return a - b
