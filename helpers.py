@@ -5,4 +5,4 @@ def greet(name, formal=False):
     return f"Hey {name}!"
 
 def farewell(name):
-    return f"Later, {name}!"
+    return f"Goodbye, {name}!"
