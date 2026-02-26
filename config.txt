@@ -1,0 +1,5 @@
+# App Configuration
+version=1.0
+name=MyApp
+debug=false
+port=8080
