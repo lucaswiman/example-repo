@@ -1,5 +1,5 @@
 Line 1: Original
-Line 2: Modified by parent
+Line 2: Modified by CHILD
 Line 3: Original
-Line 4: Original
+Line 4: Modified by child
 Line 5: Original
